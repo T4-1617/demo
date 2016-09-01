@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2013\Projects\DemoSept1-1\DemoSept1-1\bin\Debug\DemoSept1-1.exe.config
+c:\users\user\documents\visual studio 2013\Projects\DemoSept1-1\DemoSept1-1\bin\Debug\DemoSept1-1.exe
+c:\users\user\documents\visual studio 2013\Projects\DemoSept1-1\DemoSept1-1\bin\Debug\DemoSept1-1.pdb
+c:\users\user\documents\visual studio 2013\Projects\DemoSept1-1\DemoSept1-1\obj\Debug\DemoSept1-1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\DemoSept1-1\DemoSept1-1\obj\Debug\DemoSept1-1.exe
+c:\users\user\documents\visual studio 2013\Projects\DemoSept1-1\DemoSept1-1\obj\Debug\DemoSept1-1.pdb
