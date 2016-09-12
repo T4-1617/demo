@@ -1,0 +1,9 @@
+C:\T4\Demo0912-02\Demo0912-02\bin\Debug\Demo0912-02.exe.config
+C:\T4\Demo0912-02\Demo0912-02\bin\Debug\Demo0912-02.exe
+C:\T4\Demo0912-02\Demo0912-02\bin\Debug\Demo0912-02.pdb
+C:\T4\Demo0912-02\Demo0912-02\obj\Debug\Demo0912-02.csprojResolveAssemblyReference.cache
+C:\T4\Demo0912-02\Demo0912-02\obj\Debug\Demo0912_02.Form1.resources
+C:\T4\Demo0912-02\Demo0912-02\obj\Debug\Demo0912_02.Properties.Resources.resources
+C:\T4\Demo0912-02\Demo0912-02\obj\Debug\Demo0912-02.csproj.GenerateResource.Cache
+C:\T4\Demo0912-02\Demo0912-02\obj\Debug\Demo0912-02.exe
+C:\T4\Demo0912-02\Demo0912-02\obj\Debug\Demo0912-02.pdb
