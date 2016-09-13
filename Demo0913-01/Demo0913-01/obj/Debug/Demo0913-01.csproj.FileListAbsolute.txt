@@ -1,0 +1,9 @@
+\\e75h4002\b940mj$\visual studio 2013\Projects\Demo0913-01\Demo0913-01\bin\Debug\Demo0913-01.exe.config
+\\e75h4002\b940mj$\visual studio 2013\Projects\Demo0913-01\Demo0913-01\bin\Debug\Demo0913-01.exe
+\\e75h4002\b940mj$\visual studio 2013\Projects\Demo0913-01\Demo0913-01\bin\Debug\Demo0913-01.pdb
+\\e75h4002\b940mj$\visual studio 2013\Projects\Demo0913-01\Demo0913-01\obj\Debug\Demo0913-01.csprojResolveAssemblyReference.cache
+\\e75h4002\b940mj$\visual studio 2013\Projects\Demo0913-01\Demo0913-01\obj\Debug\Demo0913_01.Form1.resources
+\\e75h4002\b940mj$\visual studio 2013\Projects\Demo0913-01\Demo0913-01\obj\Debug\Demo0913_01.Properties.Resources.resources
+\\e75h4002\b940mj$\visual studio 2013\Projects\Demo0913-01\Demo0913-01\obj\Debug\Demo0913-01.csproj.GenerateResource.Cache
+\\e75h4002\b940mj$\visual studio 2013\Projects\Demo0913-01\Demo0913-01\obj\Debug\Demo0913-01.exe
+\\e75h4002\b940mj$\visual studio 2013\Projects\Demo0913-01\Demo0913-01\obj\Debug\Demo0913-01.pdb
