@@ -1,0 +1,8 @@
+C:\T4\Demo0920-03\Demo0920-03\bin\Debug\Demo0920-03.exe.config
+C:\T4\Demo0920-03\Demo0920-03\bin\Debug\Demo0920-03.exe
+C:\T4\Demo0920-03\Demo0920-03\bin\Debug\Demo0920-03.pdb
+C:\T4\Demo0920-03\Demo0920-03\obj\Debug\Demo0920-03.exe
+C:\T4\Demo0920-03\Demo0920-03\obj\Debug\Demo0920-03.pdb
+C:\T4\Demo0920-03\Demo0920-03\bin\Debug\Demo0920-03b.dll
+C:\T4\Demo0920-03\Demo0920-03\bin\Debug\Demo0920-03b.pdb
+C:\T4\Demo0920-03\Demo0920-03\obj\Debug\Demo0920-03.csprojResolveAssemblyReference.cache

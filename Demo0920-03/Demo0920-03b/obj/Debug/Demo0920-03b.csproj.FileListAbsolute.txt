@@ -1,0 +1,5 @@
+C:\T4\Demo0920-03\Demo0920-03b\bin\Debug\Demo0920-03b.dll
+C:\T4\Demo0920-03\Demo0920-03b\bin\Debug\Demo0920-03b.pdb
+C:\T4\Demo0920-03\Demo0920-03b\obj\Debug\Demo0920-03b.csprojResolveAssemblyReference.cache
+C:\T4\Demo0920-03\Demo0920-03b\obj\Debug\Demo0920-03b.dll
+C:\T4\Demo0920-03\Demo0920-03b\obj\Debug\Demo0920-03b.pdb
