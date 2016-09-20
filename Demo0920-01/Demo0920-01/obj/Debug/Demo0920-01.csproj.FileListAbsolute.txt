@@ -1,0 +1,6 @@
+C:\T4\Demo0920-01\Demo0920-01\bin\Debug\Demo0920-01.exe.config
+C:\T4\Demo0920-01\Demo0920-01\bin\Debug\Demo0920-01.exe
+C:\T4\Demo0920-01\Demo0920-01\bin\Debug\Demo0920-01.pdb
+C:\T4\Demo0920-01\Demo0920-01\obj\Debug\Demo0920-01.csprojResolveAssemblyReference.cache
+C:\T4\Demo0920-01\Demo0920-01\obj\Debug\Demo0920-01.exe
+C:\T4\Demo0920-01\Demo0920-01\obj\Debug\Demo0920-01.pdb
